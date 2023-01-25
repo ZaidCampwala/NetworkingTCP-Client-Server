@@ -1,0 +1,10 @@
+﻿  Ali_Client.cpp
+C:\Users\zacam\Desktop\Game Programming\Semester 5\Networking\TCP Winsock Client & Server\Ali_Client.cpp(87,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\zacam\Desktop\Game Programming\Semester 5\Networking\TCP Winsock Client & Server\Ali_Client.cpp(87,12): message : consider using '%zd' in the format string
+C:\Users\zacam\Desktop\Game Programming\Semester 5\Networking\TCP Winsock Client & Server\Ali_Client.cpp(23,7): warning C4101: 'recvbuf': unreferenced local variable
+  Generating code
+  1 of 44 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Winstock Implementation.vcxproj -> C:\Users\zacam\Desktop\Game Programming\Semester 5\Networking\TCP Winsock Client & Server\Winstock Client\x64\Release\Winstock Implementation.exe

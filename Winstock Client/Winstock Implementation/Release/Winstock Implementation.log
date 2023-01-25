@@ -1,0 +1,7 @@
+﻿  Ali_Client.cpp
+C:\Users\zacam\Desktop\Game Programming\Semester 5\Networking\TCP Winsock Client & Server\Ali_Client.cpp(23,7): warning C4101: 'recvbuf': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 44 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Winstock Implementation.vcxproj -> C:\Users\zacam\Desktop\Game Programming\Semester 5\Networking\TCP Winsock Client & Server\Winstock Client\Release\Winstock Implementation.exe
